@@ -1,2 +1,3 @@
-# pro-web-app-6oxf
+# Pro Web App 6Oxf
+
 A repository to test GitHub automation for issue management.
